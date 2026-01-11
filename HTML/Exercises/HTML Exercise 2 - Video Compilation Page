@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+     <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Elden Ring</h1>
+        <p>A compilation of bosses, game tips, and more</p>
+
+        <section>
+            <h2>Malenia</h2>
+            <p>Player LetMeSoloHer's No Hit Run</p>
+            <iframe src="https://www.youtube.com/embed/1cE-2nFhKpo" title="Player LetMeSoloHer's No Hit Run" height="340" width="640">
+            </iframe>
+        </section>
+
+        <section>
+            <h2>Limgrave guide</h2>
+            <p>Its Shatter Guide for Limgrave</p>
+            <iframe height="340" width="640"
+            src="https://www.youtube.com/embed/uJh0LLO8QEA" 
+            title="Its Shatter Guide for Limgrave">
+
+            </iframe>
+        </section>        
+
+        <section>
+            <h2>Malenia</h2>
+            <p>Compilation of Streamers' Reaction to Radahn posted by Reaction Reboot</p>
+            <iframe height="340" width="640"
+            src="https://www.youtube.com/embed/KALXXfqxEnY" 
+            title="Compilation of Streamers' Reaction to Radahn posted by Reaction Reboot" >
+            </iframe>
+        </section>
+        
+    </main>
+</body>
+</html>
