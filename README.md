@@ -1,6 +1,6 @@
 # Personal Learning Repository (2026-20XX)
 
-This repository is my personal space for core exercises and projects I’ve worked on starting in 2026. Everything here exists mainly for me — to practice fundamentals, experiment with ideas, and have something concrete to look back on as I improve over time.
+This repository is my personal space for core exercises and projects I’ve worked on starting in 2026. Everything here exists mainly for me to practice fundamentals, experiment with ideas, and have something concrete to look back on as I improve over time.
 
 The code in this repo comes from a mix of exercises, small projects, and concept explorations. It isn’t meant to be polished or production standard. Instead, it’s meant to reflect my actual learning process as it happened.
 
