@@ -8,11 +8,9 @@ The main purpose of this repository is to document progress. I want to be able t
 
 Once I decide that I’m done updating a file, I stop making changes to it entirely. I don’t refactor it, rewrite logic, or optimize things later on, even if I notice better or cleaner approaches. The only exception is adding comments. I do this intentionally so each file remains a snapshot of where I was at that point in time, rather than being rewritten with knowledge I gained later.
 
-Any comments in the code are written for personal note-taking. They’re there to explain decisions, remind me how something works, or give context in case I revisit the file in the future. Because of that, they may be more informal or might not necessarily be clear to others.
+Any comments in the code are written for personal note-taking. They’re there to explain decisions, remind me how something works, or give context in case I revisit the file in the future. They may be more informal or might not necessarily be clear for that reason.
 
-I’ll continue adding to this repository as I learn new concepts, revisit fundamentals, and work on things I find interesting or useful. There’s no strict structure or roadmap — it evolves naturally as I do.
-
-This repository isn’t about writing perfect code. It’s about progress, consistency, and having an honest record of how far I’ve come.
+I’ll continue adding to this repository as I learn new concepts, revisit fundamentals, and work on things I find interesting or useful. There’s no strict structure to it.
 
 This is a test for editing with gitbash <-- first ever push from gitbash everyone celebrate !!
 
