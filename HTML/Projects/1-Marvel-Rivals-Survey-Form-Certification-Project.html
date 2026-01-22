@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+    <h1 id="title">Marvel Rivals Community Survey</h1>
+    <p id="description">Help us improve Marvel Rivals! Complete this quick survey to share your opinions and experiences with the game</p>
+     <form id="survey-form">
+      <fieldset>
+        <legend>User Information</legend>      
+        <label id="name-label" for="name">Username</label>
+        <input id="name" type="text" placeholder="lexwalnut" required>
+        <br>
+        <label id="email-label" for="email">Email</label> 
+        <input id="email" type="email" placeholder="lexwalnut@email.com" required>
+        <br>
+        <label id="number-label" for="number">Age (Optional)</label>
+        <input id="number" type="number" min="13" max="99" placeholder="18">
+      </fieldset>
+   
+      <fieldset>
+        <legend>What is your primary role?</legend>
+        <select id="dropdown">
+          <option hidden>Select a role</option>
+          <option>Vanguard</option>
+          <option>Duelist</option>
+          <option>Strategist</option>
+        </select>
+      </fieldset>
+
+      <fieldset>
+        <legend>How satisfied are you with the current state of the game?</legend>
+        <input id="very-satisfied" type="radio" value="Very Satisfied" name="satisfaction">
+        <label for="very-satisfied">Very Satisfied</label>
+
+        <input id="somewhat-satisfied" type="radio" value="Somewhat Satisfied" name="satisfaction">
+        <label for="somewhat-satisfied">Somewhat Satisfied</label>
+
+        <input id="somewhat-Dissatisfied" type="radio" value="Somewhat Dissatisfied" name="satisfaction">
+        <label for="somewhat-Dissatisfied">Somewhat Dissatisfied</label>
+
+        <input id="very-Dissatisfied" type="radio" value="Very Dissatisfied" name="satisfaction">
+        <label for="very-Dissatisfied">Very Dissatisfied</label>
+      </fieldset>
+
+      <fieldset>
+        <legend>Suggest who needs a nerf (Multiple selections allowed)</legend>
+        <input id="nerf-bucky" type="checkbox" name="nerf" value="Bucky">
+        <label for="nerf-bucky">Bucky</label>
+
+        <input id="nerf-hela" type="checkbox" name="nerf" value="Hela">
+        <label for="nerf-hela">Hela</label>
+
+        <input id="nerf-phoenix" type="checkbox" name="nerf" value="Phoenix">
+        <label for="nerf-phoenix">Phoenix</label>
+
+        <input type="checkbox" value="Bucky">
+        <label for="nerf-bucky">Bucky</label>
+
+        <input id="nerf-namor" type="checkbox" name="nerf" value="Namor">
+        <label for="nerf-namor">Namor</label>
+
+       <input type="checkbox" value="Bucky">
+        <label for="nerf-bucky">Bucky</label>
+        <input type="checkbox" value="Bucky">
+        <label for="nerf-bucky">Bucky</label>
+        <input type="checkbox" value="Bucky">
+        <label for="nerf-bucky">Bucky</label>
+        <input type="checkbox" value="Bucky">
+        <label for="nerf-bucky">Bucky</label>
+        <input type="checkbox" value="Bucky">
+        <label for="nerf-bucky">Bucky</label>
+        <input type="checkbox" value="Bucky">
+        <label for="nerf-bucky">Bucky</label>
+        <input type="checkbox" value="Bucky">
+        <label for="nerf-bucky">Bucky</label>
+        <input type="checkbox" value="Bucky">
+        <label for="nerf-bucky">Bucky</label>
+      </fieldset>
+      
+      <fieldset>
+        <legend>Aditional Suggestions</legend>
+        <textarea></textarea>
+        <br>
+        <input id="submit" type="submit" value="Submit">
+      </fieldset>
+
+
+    </form>
+  </body>
+</html>
